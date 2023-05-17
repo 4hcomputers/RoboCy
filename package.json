@@ -1,0 +1,16 @@
+{
+  "name": "robocy",
+  "version": "2.0.0",
+  "author": "Calum Dingwall (https://github.com/caburum)",
+  "license": "MIT",
+  "main": "index.js",
+	"type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "@discordjs/builders": "^1.6.3",
+    "discord.js": "^14.11.0"
+  },
+  "devDependencies": {}
+}
